@@ -14,7 +14,7 @@
     color: white;
     padding-right: 60px;
     padding-left: 10px;
-    font-family: Brush Script MT,cursive;
+    font-family: 'Major Mono Display', monospace;
     font-size: 200%;
 }
 .nav-item{
@@ -23,12 +23,13 @@
 
 
 .section-1 {
-    margin-top: 90px;
+    margin-top: 70px;
     background-color: #222629;
     color: white;
     padding: 10px;
     box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
-    
+    margin-left: -50px;
+    margin-right: -50px;
 }
 .section-2{
      background-color: white;
